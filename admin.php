@@ -306,7 +306,7 @@
              </form>
         </main>
         
-      <a href="https://github.com/intradiegopa/crud/database" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-color-text--white">Vedi i file sorgenti</a>
+      <a href="https://github.com/intradiegopa/crud-database" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-color-text--white">Vedi i file sorgenti</a>
     <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
           </div>
   </body>
